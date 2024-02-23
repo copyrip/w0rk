@@ -17,3 +17,7 @@
     * [ ] write proposal
 * [ ] declarations
     * [ ] write proposal
+* ɴon-ᴀ
+    * [ ] mail collectif
+    * [ ] archive
+    * [ ] migration serveur
