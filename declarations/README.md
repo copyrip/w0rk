@@ -11,7 +11,7 @@ Your application can take the form you prefer: a web-page labyrinth, a poetic em
 
 In addition to your application, to propose a presentation on the 1st of April (not mandatory), answer the following.
 
-    What story about (CSS or) web-based practices, what would you tell? what type of knowledge or problematics lies in this story? 
+**"What story about (CSS or) web-based practices, what would you tell? what type of knowledge or problematics lies in this story?"**
 
 
 I first played with web pages during 
@@ -20,6 +20,18 @@ before publishing them on the school website
 
 since then, I always created webpages as long as I had a text editor
 
+...
+
+I like to work in a terminal,
+    hence I like to work with text
+        so I often write READMEs, style.css and other random pages
+
+* rightinthefeels
+* piipmachine
+* random graphic stuff
+    * erg wiki
+    * 
+
 ## css for live streaming
 
 I would be interested in working on a short demo / presentation / performance to talk about how I integrate CSS and web publishing practices in the context of video streaming.
@@ -27,6 +39,8 @@ I would be interested in working on a short demo / presentation / performance to
 * Can the simplicity of this setup can compare with professional tv habillage ?
 * What oddities and quirks do we happily inherit from working like this ?
 * How does a whole graphic identity could develop from video to paper, transiting via web based design ?
+
+I think I could do the prez in EN or FR depending on users preferences.
 
 
 * tried it out in bozar souper show

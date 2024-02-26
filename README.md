@@ -3,6 +3,7 @@
 ## summary
 0. CPAS Kiosks !
 1. Astroturf, web consulting
+2. Déclarations
 
 ## master to do list 😤 
 * [ ] CPAS x Kiosk
@@ -18,9 +19,10 @@
 * [ ] Astroturf
     * [ ] finir site video
     * [ ] idées articles
-    * 
 * [ ] ME
     * [ ] cv
+        * [ ] divide in two parts
+        * [ ] pipeline .csv to page
     * [ ] website
     * [ ] carte sécu (minting)
 * [ ] WEB2PRINT
@@ -32,3 +34,5 @@
     * [ ] mail collectif
     * [ ] archive
     * [ ] migration serveur
+* misc.
+    * [ ] pomodoro timer in the title of a webpage
