@@ -6,6 +6,9 @@
 
 ## master to do list 😤 
 * [ ] CPAS x Kiosk
+    * [ ] test battery pacl
+    * [ ] analyse conso. elec.
+    * [ ] trouver boite
     * [ ] commande amazon
     * [ ] idée boitier
     * [ ] test RW5W...
@@ -14,6 +17,8 @@
     * [x] test dollatek
 * [ ] Astroturf
     * [ ] finir site video
+    * [ ] idées articles
+    * 
 * [ ] ME
     * [ ] cv
     * [ ] website
@@ -22,6 +27,7 @@
     * [ ] write proposal
 * [ ] declarations
     * [ ] write proposal
+    * [ ] send proposal
 * ɴon-ᴀ
     * [ ] mail collectif
     * [ ] archive
