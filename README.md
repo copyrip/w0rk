@@ -6,9 +6,14 @@
 
 ## master to do list 😤 
 * [ ] CPAS x Kiosk
-    * [ ] test dollatek
+    * [ ] commande amazon
+    * [ ] idée boitier
     * [ ] test RW5W...
-    * [ ] ✉️ Mail sam
+    * [ ] documentation
+    * [x] ✉️ Mail sam
+    * [x] test dollatek
+* [ ] Astroturf
+    * [ ] finir site video
 * [ ] ME
     * [ ] cv
     * [ ] website

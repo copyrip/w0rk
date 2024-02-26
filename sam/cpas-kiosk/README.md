@@ -4,9 +4,8 @@ A simple device to play on loop a track from interviews of CPAS workers.
 
 ## to do
 * [ ] amazon order 
-    * [ ] sd cards
-    * [ ] pins
-    * [ ] 
+    * [x] sd cards
+    * [x] pins
 
 
 ## requirements
@@ -14,8 +13,9 @@ A simple device to play on loop a track from interviews of CPAS workers.
 * 5x pieces + 1 or 2 spare
 * play audio on loop
 
+<!--
 
-## 
+## mail 
 Hello mon sam !
 J'espère que votre installation se passe bien, je suis vraiment content pour vous t'es vraiment un monstre (triple monstre).
 
@@ -33,6 +33,6 @@ Plusieurs questions
     je compte documenter tout ça pour vous aider en terme de formatage de carte,quoi faire si bug, liste du matos si il faut remplacer* etc...
 
 (*) à ce propos je me disais peut être faire 1 spare en plus de celui que j'ai en proto ce qui ferait 7 en tout au cas où il y ai damage à un moment où l'autre, tu penses qu'il en faut plus ?
-
+-->
 
 
