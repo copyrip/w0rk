@@ -7,7 +7,7 @@
 
 ## master to do list 😤 
 * [ ] CPAS x Kiosk
-    * [ ] test battery pacl
+    * [ ] test battery pack
     * [ ] analyse conso. elec.
     * [ ] trouver boite
     * [ ] commande amazon
@@ -18,9 +18,11 @@
     * [x] test dollatek
 * [ ] Astroturf
     * [ ] finir site video
-        * add jquery
-        * add content
-        * contact page
+        * [x] add jquery
+        * [x] add content
+        * [ ] style content
+        * [ ] contact page
+        * [ ] bring back video bg
         * publish
     * [ ] idées articles
 * [ ] ME
