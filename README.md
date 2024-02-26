@@ -18,11 +18,16 @@
     * [x] test dollatek
 * [ ] Astroturf
     * [ ] finir site video
+        * add jquery
+        * add content
+        * contact page
+        * publish
     * [ ] idées articles
 * [ ] ME
     * [ ] cv
         * [ ] divide in two parts
         * [ ] pipeline .csv to page
+        * [ ] add images on hover
     * [ ] website
     * [ ] carte sécu (minting)
 * [ ] WEB2PRINT
