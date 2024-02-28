@@ -13,6 +13,7 @@
         * [ ] add images on hover
     * [ ] website
         * [ ] fun fun fun
+        * [x] add badges
     * [ ] carte sécu (minting)
 * [ ] CPAS x Kiosk
     * [ ] test battery pack
