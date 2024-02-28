@@ -3,7 +3,7 @@
 A simple device to play on loop a track from interviews of CPAS workers.
 
 ## to do
-* [ ] amazon order 
+* [x] amazon order 
     * [x] sd cards
     * [x] pins
 
@@ -12,6 +12,9 @@ A simple device to play on loop a track from interviews of CPAS workers.
 * cheap
 * 5x pieces + 1 or 2 spare
 * play audio on loop
+
+## documentation
+* quel formatage ? quel format fichier ?
 
 <!--
 

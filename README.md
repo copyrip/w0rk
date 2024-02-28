@@ -6,14 +6,21 @@
 2. Déclarations
 
 ## master to do list 😤 
+* [ ] ME
+    * [ ] cv
+        * [ ] divide in two parts
+        * [ ] pipeline .csv to page
+        * [ ] add images on hover
+    * [ ] website
+        * [ ] fun fun fun
+    * [ ] carte sécu (minting)
 * [ ] CPAS x Kiosk
     * [ ] test battery pack
     * [ ] analyse conso. elec.
-    * [ ] trouver boite
-    * [ ] commande amazon
-    * [ ] idée boitier
-    * [ ] test RW5W...
     * [ ] documentation
+    * [?] trouver boite
+    * [x] commande amazon
+    * [x] test RW5W...
     * [x] ✉️ Mail sam
     * [x] test dollatek
 * [ ] Astroturf
@@ -25,13 +32,6 @@
         * [ ] bring back video bg
         * publish
     * [ ] idées articles
-* [ ] ME
-    * [ ] cv
-        * [ ] divide in two parts
-        * [ ] pipeline .csv to page
-        * [ ] add images on hover
-    * [ ] website
-    * [ ] carte sécu (minting)
 * [ ] WEB2PRINT
     * [ ] write proposal
 * [ ] declarations
