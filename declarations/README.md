@@ -34,7 +34,14 @@ I like to work in a terminal,
 
 ## css for live streaming
 
-I would be interested in working on a short demo / presentation / performance to talk about how I integrate CSS and web publishing practices in the context of video streaming.
+For a few years (we)[https://www.youtube.com/@1nd3x__]
+For a few years [we](https://www.youtube.com/@1nd3x__) tried various video streaming experiments, with erg.tv, BOZAR, and for my mémoir.
+
+As a text-first computer user, I wanted to find ways to design our video output using lightweight techniques, such as graphic webpages to display infos, images or effects. Using html pages is also one of the most common way to integrate chat, alerts and other viewer based events in the mainstream streaming community, using tools such as →
+
+I would be interested in working on a demo / presentation / performance to talk about how I integrate CSS and web publishing practices in the context of video streaming (with OBS, the open source video broadcast software)
+
+You can see this technique in use here, here and here for example.
 
 * Can the simplicity of this setup can compare with professional tv habillage ?
 * What oddities and quirks do we happily inherit from working like this ?
@@ -42,10 +49,5 @@ I would be interested in working on a short demo / presentation / performance to
 
 I think I could do the prez in EN or FR depending on users preferences.
 
+As I don't live in brussels anymore it could be a way for me to pay my travel fees.
 
-* tried it out in bozar souper show
-    * two third
-    * generique
-    * waiting room
-* people are using it without knowing
-    * cryptic hashed urls
