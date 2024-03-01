@@ -16,6 +16,7 @@
         * [x] add badges
     * [ ] carte sécu (minting)
 * [ ] CPAS x Kiosk
+    * [ ] test double speaker
     * [ ] test battery pack
     * [ ] analyse conso. elec.
     * [ ] documentation
@@ -28,19 +29,19 @@
     * [ ] finir site video
         * [x] add jquery
         * [x] add content
-        * [ ] style content
-        * [ ] contact page
-        * [ ] bring back video bg
-        * publish
+        * [x] style content
+        * [x] contact page
+        * [x] bring back video bg
+        * [ ] publish
     * [ ] idées articles
 * [ ] WEB2PRINT
     * [ ] write proposal
-* [ ] declarations
-    * [ ] write proposal
-    * [ ] send proposal
 * ɴon-ᴀ
     * [ ] mail collectif
     * [ ] archive
     * [ ] migration serveur
 * misc.
     * [ ] pomodoro timer in the title of a webpage
+* [ ] declarations
+    * [x] write proposal
+    * [x] send proposal
