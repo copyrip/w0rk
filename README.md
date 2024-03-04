@@ -42,6 +42,6 @@
     * [ ] migration serveur
 * misc.
     * [ ] pomodoro timer in the title of a webpage
-* [ ] declarations
+* [x] declarations
     * [x] write proposal
     * [x] send proposal
