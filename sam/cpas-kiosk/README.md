@@ -6,6 +6,16 @@ A simple device to play on loop a track from interviews of CPAS workers.
 * [x] amazon order 
     * [x] sd cards
     * [x] pins
+* double speakers
+    * parallel
+    * series
+* casing
+    * get markings
+    * cut top
+    * screw speaker
+    * lead speaker wires
+* facture
+
 
 
 ## requirements
@@ -15,6 +25,14 @@ A simple device to play on loop a track from interviews of CPAS workers.
 
 ## documentation
 * quel formatage ? quel format fichier ?
+* comment assembler
+* référence piéces
+* bug possibles ?
+
+## mail
+* infos livraison
+* infos montage
+* infos facturation
 
 <!--
 
