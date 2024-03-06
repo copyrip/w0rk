@@ -11,15 +11,18 @@
         * [ ] divide in two parts
         * [ ] pipeline .csv to page
         * [ ] add images on hover
-    * [ ] website
-        * [ ] fun fun fun
+    * [?] website
+        * [x] fun fun fun
         * [x] add badges
     * [ ] carte sécu (minting)
 * [ ] CPAS x Kiosk
-    * [ ] test double speaker
-    * [ ] test battery pack
-    * [ ] analyse conso. elec.
     * [ ] documentation
+    * [ ] facture
+    * [ ] last mail sam
+    * [ ] envoi ups
+    * [x] test double speaker
+    * [x] test battery pack
+    * [x] analyse conso. elec.
     * [?] trouver boite
     * [x] commande amazon
     * [x] test RW5W...
@@ -32,8 +35,13 @@
         * [x] style content
         * [x] contact page
         * [x] bring back video bg
+        * [x] revoir code
+        * [x] clean html + comments
+        * [x] clean jquery + comments
+        * [x] clean css + comments
+        * [x] w3c + oter validators
         * [ ] publish
-    * [ ] idées articles
+    * [x] idées articles
 * [ ] WEB2PRINT
     * [ ] write proposal
 * ɴon-ᴀ
