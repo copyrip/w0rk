@@ -6,6 +6,8 @@ Par défaut, le lecteur lit en boucle la piste audio.
 
 Il est aussi possible de monter ou baisser le volume
 
+Si on branche deux enceintes il faut le brancher en parrallèle (voir diagramme). Sinon il suffit de brancher sur les bornes (+) et (-) les cables du speaker.
+
 ## fichiers
 Les cartes TF sont déjà formatées.
 
