@@ -1,4 +1,7 @@
 # W0RK, and a lot of fun 🥳 
+How can I make this list more friendly, and more playful ?
+
+* scoring ?
 ## summary
 0. Me
 1. CPAS Kiosks !
@@ -17,9 +20,9 @@
     * [ ] carte sécu (minting)
 * [ ] CPAS x Kiosk
     * [ ] documentation
-    * [ ] facture
-    * [ ] last mail sam
-    * [ ] envoi ups
+    * [x] facture
+    * [x] last mail sam
+    * [x] envoi ups
     * [x] test double speaker
     * [x] test battery pack
     * [x] analyse conso. elec.
@@ -40,6 +43,7 @@
         * [x] clean jquery + comments
         * [x] clean css + comments
         * [x] w3c + oter validators
+        * [ ] mobile support
         * [ ] publish
     * [x] idées articles
 * [ ] WEB2PRINT
