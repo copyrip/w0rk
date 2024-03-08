@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="Description">
+    <meta name="author" content="martin@copyright.rip">
+
+    <title>Page Title</title>
+
+    <link rel="stylesheet" href="./css/reset.css">
+    <link rel="stylesheet" href="./fonts/style.css">
+    <style>
+x {
+  color:blue;
+font-family:"Redaction 70";}
+body {
+  color:#fff; background:#000;
+  padding:30px;
+}
+
+h1 {font-size:72pt;
+  font-family:"Redaction";
+}
+
+ul li span {font-size:32pt;}
+ul {display:none;}
+
+em {font-style:italic;}
+strong {font-weight:bold;}
+
+.r100 {font-family:"Redaction 100", serif;}
+.r70 {font-family:"Redaction 70", serif;}
+.r50 {font-family:"Redaction 50", serif;}
+.r35 {font-family:"Redaction 35", serif;}
+.r20 {font-family:"Redaction 20", serif;}
+.r10 {font-family:"Redaction 10", serif;}
+.r {font-family:"Redaction", serif;}
+
+p {
+  font-family:"Redaction 100", serif;
+  width:50%;
+  font-size:16pt;
+}
+    </style>
+
+  </head>
+  <body>
+    <h1><em>ASTROTURF</em></h1>
+    <h1>astroturf</h1>
+    <p>1. The Industrial Revolution and its consequences have been a disaster for the human race. They have greatly increased the life-expectancy of those of us who live in “advanced” countries, but they have destabilized society, have made life unfulfilling, have subjected human beings to indignities, have led to widespread psychological suffering (in the Third World to physical suffering as well) and have inflicted severe damage on the natural world. The continued development of technology will worsen the situation. It will certainly subject human beings to greater indignities and inflict greater damage on the natural world, it will probably lead to greater social disruption and psychological suffering, and it may lead to increased physical suffering even in “advanced” countries.</p>
+    <ul>
+      <li><span class="r100">Redaction 100</span></li>
+      <li><span class="r100"><em>Redaction 100</em></span></li>
+      <li><span class="r100"><strong>Redaction 100</strong></span></li>
+      <li>-</li>
+      <li><span class="r70">Redaction 70</span></li>
+      <li><span class="r70"><em>Redaction 70</em></span></li>
+      <li><span class="r70"><strong>Redaction 70</strong></span></li>
+      <li>-</li>
+      <li><span class="r50">Redaction 50</span></li>
+      <li><span class="r50"><em>Redaction 50</em></span></li>
+      <li><span class="r50"><strong>Redaction 50</strong></span></li>
+      <li>-</li>
+      <li><span class="r35">Redaction 35</span></li>
+      <li><span class="r35"><em>Redaction 35</em></span></li>
+      <li><span class="r35"><strong>Redaction 35</strong></span></li>
+      <li>-</li>
+      <li><span class="r20">Redaction 20</span></li>
+      <li><span class="r20"><em>Redaction 20</em></span></li>
+      <li><span class="r20"><strong>Redaction 20</strong></span></li>
+      <li>-</li>
+      <li><span class="r10">Redaction 10</span></li>
+      <li><span class="r10"><em>Redaction 10</em></span></li>
+      <li><span class="r10"><strong>Redaction 10</strong></span></li>
+      <li>-</li>
+      <li><span class="r">Redaction</span></li>
+      <li><span class="r"><em>Redaction</em></span></li>
+      <li><span class="r"><strong>Redaction</strong></span></li>
+    </ul>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+
+      var fonts = new Array;
+      fonts[0] = r(100);
+      fonts[1] = r(70);
+      fonts[2] = r(50);
+      fonts[3] = r(35);
+      fonts[4] = r(20);
+      fonts[5] = r(10);
+      fonts[6] = r(0);
+      console.log(fonts.length);
+
+      setInterval(() => {
+    $("p").each(function() {
+        let words = $(this).html().split(" ");
+        let index;
+        do {
+            index = Math.floor(Math.random() * words.length);
+        } while (words[index].startsWith("<span"));
+
+        words[index] = "<x>" + words[index] + "</x>";
+        $(this).html(words.join(" "));
+    });
+}, Math.floor(Math.random() * 351) + 50);
+
+      $(document).on('mousemove',function(e) {
+	$('p').attr('style','font-family:'+fonts[Math.floor(e.clientX / ($(document).width() / fonts.length))]);
+	$('h1').attr('style','font-family:'+fonts[Math.floor(e.clientX / ($(document).width() / fonts.length))]);
+	//	$('p').css('font-family','"Redaction 10", serif');
+	//$('p').css('font-family', a[Math.floor(e.clienX / ($(document).width() / 3))]);
+	//$('p').css('font-family', fonts[Math.floor(e.clientX / ($(document).width() / fonts.length))]);
+
+	//$('p').css('font-family', [r(100), r(70), r(50), r(35)][Math.floor(e.clientX / ($(document).width() / 4))]);
+	//$('p').css('color', ['red', 'blue', 'green', 'white'][Math.floor(e.clientX / ($(document).width() / 4))]); 
+
+      });
+
+      console.log(r(10));
+
+      function r(i){
+	var r;
+	i === 0 ?
+	  r = "\"Redaction\", serif;"		:
+	  r = "\"Redaction "+i+"\", serif;"	;
+
+	return r;
+      }
+
+    </script>
+  </body>
+</html>
+

@@ -1,9 +1,9 @@
 # W0RK, and a lot of fun 🥳 
-
 ## summary
-0. CPAS Kiosks !
-1. Astroturf, web consulting
-2. Déclarations
+0. Me
+1. CPAS Kiosks !
+2. Astroturf, web consulting
+3. Déclarations
 
 ## master to do list 😤 
 * [ ] ME
@@ -50,6 +50,8 @@
     * [ ] migration serveur
 * misc.
     * [ ] pomodoro timer in the title of a webpage
+
+## "done"
 * [x] declarations
     * [x] write proposal
     * [x] send proposal
