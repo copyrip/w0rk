@@ -18,8 +18,16 @@ How can I make this list more friendly, and more playful ?
         * [x] fun fun fun
         * [x] add badges
     * [ ] carte sécu (minting)
-* [ ] CPAS x Kiosk
-    * [ ] documentation
+* [ ] non-a
+    * [ ] https ?
+    * [ ] new domain name
+    * [ ] new email ?
+    * [ ] wiki theme
+    * [ ] how to manage archives
+    * [ ] what's next
+* [x] CPAS x Kiosk
+    * [ ] mail sam
+    * [.] documentation
     * [x] facture
     * [x] last mail sam
     * [x] envoi ups
