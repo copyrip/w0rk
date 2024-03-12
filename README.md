@@ -9,7 +9,15 @@ How can I make this list more friendly, and more playful ?
 3. Déclarations
 
 ## master to do list 😤 
+* [ ] home
+    * [ ] comptes
+    * [ ] electricité
+    * [ ] internet
+    * [ ] liste ikea
+    * [ ] rangement
+    * [ ] quoi acheter
 * [ ] ME
+    * [ ] ambassadeur biennale chroniques
     * [ ] cv
         * [ ] divide in two parts
         * [ ] pipeline .csv to page
@@ -41,6 +49,7 @@ How can I make this list more friendly, and more playful ?
     * [x] test dollatek
 * [ ] Astroturf
     * [ ] finir site video
+        * [ ] mobile support
         * [x] add jquery
         * [x] add content
         * [x] style content
@@ -51,7 +60,6 @@ How can I make this list more friendly, and more playful ?
         * [x] clean jquery + comments
         * [x] clean css + comments
         * [x] w3c + oter validators
-        * [ ] mobile support
         * [ ] publish
     * [x] idées articles
 * [ ] WEB2PRINT
