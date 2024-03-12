@@ -3,6 +3,7 @@ How can I make this list more friendly, and more playful ?
 
 * scoring ?
 ## summary
+0. Home
 0. Me
 1. CPAS Kiosks !
 2. Astroturf, web consulting
