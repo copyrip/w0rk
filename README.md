@@ -10,6 +10,13 @@ How can I make this list more friendly, and more playful ?
 3. Déclarations
 
 ## master to do list 😤 
+* [ ] mail mom webinar
+* [ ] facture tl galerie
+* [ ] facture théo mi mars
+* [ ] facture kiosk ?
+* [ ] remboursement train
+* [ ] defraiement wiki race
+* [ ] sous erg ? 
 * [ ] home
     * [ ] comptes
     * [ ] electricité
@@ -34,20 +41,6 @@ How can I make this list more friendly, and more playful ?
     * [ ] wiki theme
     * [ ] how to manage archives
     * [ ] what's next
-* [x] CPAS x Kiosk
-    * [ ] mail sam
-    * [.] documentation
-    * [x] facture
-    * [x] last mail sam
-    * [x] envoi ups
-    * [x] test double speaker
-    * [x] test battery pack
-    * [x] analyse conso. elec.
-    * [?] trouver boite
-    * [x] commande amazon
-    * [x] test RW5W...
-    * [x] ✉️ Mail sam
-    * [x] test dollatek
 * [ ] Astroturf
     * [ ] finir site video
         * [ ] mobile support
@@ -76,3 +69,18 @@ How can I make this list more friendly, and more playful ?
 * [x] declarations
     * [x] write proposal
     * [x] send proposal
+* [x] CPAS x Kiosk
+    * [x] mail sam
+    * [x] documentation
+    * [x] facture
+    * [x] last mail sam
+    * [x] envoi ups
+    * [x] test double speaker
+    * [x] test battery pack
+    * [x] analyse conso. elec.
+    * [?] trouver boite
+    * [x] commande amazon
+    * [x] test RW5W...
+    * [x] ✉️ Mail sam
+    * [x] test dollatek
+
