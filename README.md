@@ -10,7 +10,6 @@ How can I make this list more friendly, and more playful ?
 3. Déclarations
 
 ## master to do list 😤 
-* [ ] mail mom webinar
 * [ ] facture tl galerie
 * [ ] facture théo mi mars
 * [ ] facture kiosk ?
@@ -25,7 +24,8 @@ How can I make this list more friendly, and more playful ?
     * [ ] rangement
     * [ ] quoi acheter
 * [ ] ME
-    * [ ] ambassadeur biennale chroniques
+    * [x] mail mom webinar
+    * [x] ambassadeur biennale chroniques
     * [ ] cv
         * [ ] divide in two parts
         * [ ] pipeline .csv to page
