@@ -2,20 +2,36 @@
 How can I make this list more friendly, and more playful ?
 
 * scoring ?
+* 
+
 ## summary
 0. Home
 0. Me
-1. CPAS Kiosks !
+1. machin/machine
 2. Astroturf, web consulting
+## old
+1. CPAS Kiosks !
 3. Déclarations
 
 ## master to do list 😤 
-* [ ] facture tl galerie
+* [ ] URSSAF !
+* [x] facture tl galerie
 * [ ] facture théo mi mars
-* [ ] facture kiosk ?
+* [.] facture kiosk ?
+* [x] mail sam
 * [ ] remboursement train
 * [ ] defraiement wiki race
 * [ ] sous erg ? 
+* [ ] Machin / Machine
+    * [ ] invitation
+    * [ ] set up
+        * [ ] micro sceno
+        * [ ] obs sur ordis, micro habillage
+    * [ ] narration
+        * [ ] intro
+    * [ ] habillage son
+        * [ ] dnb
+        * [ ] f1 schumarer
 * [ ] home
     * [ ] comptes
     * [ ] electricité
@@ -43,7 +59,7 @@ How can I make this list more friendly, and more playful ?
     * [ ] what's next
 * [ ] Astroturf
     * [ ] finir site video
-        * [ ] mobile support
+        * [x] mobile support
         * [x] add jquery
         * [x] add content
         * [x] style content
