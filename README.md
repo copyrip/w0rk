@@ -22,16 +22,6 @@ How can I make this list more friendly, and more playful ?
 * [ ] remboursement train
 * [ ] defraiement wiki race
 * [ ] sous erg ? 
-* [ ] Machin / Machine
-    * [ ] invitation
-    * [ ] set up
-        * [ ] micro sceno
-        * [ ] obs sur ordis, micro habillage
-    * [ ] narration
-        * [ ] intro
-    * [ ] habillage son
-        * [ ] dnb
-        * [ ] f1 schumarer
 * [ ] home
     * [ ] comptes
     * [ ] electricité
@@ -82,6 +72,16 @@ How can I make this list more friendly, and more playful ?
     * [ ] pomodoro timer in the title of a webpage
 
 ## "done"
+* [x] Machin / Machine
+    * [x] invitation
+    * [x] set up
+        * [x] micro sceno
+        * [x] obs sur ordis, micro habillage
+    * [x] narration
+        * [x] intro
+    * [x] habillage son
+        * [x] dnb
+        * [x] f1 schumarer
 * [x] declarations
     * [x] write proposal
     * [x] send proposal
