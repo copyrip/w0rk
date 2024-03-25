@@ -14,6 +14,9 @@ How can I make this list more friendly, and more playful ?
 3. Déclarations
 
 ## master to do list 😤 
+* [ ] cpf
+* [ ] apl
+* [ ] internet
 * [ ] URSSAF !
 * [x] facture tl galerie
 * [ ] facture théo mi mars
