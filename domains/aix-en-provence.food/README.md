@@ -7,4 +7,7 @@
 ## idées backlinks
 * forums cuisine
 * ig bio
-* 
+
+* 20240328 - 12:00
+* post ig
+* small article
